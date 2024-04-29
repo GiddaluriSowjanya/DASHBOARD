@@ -1,0 +1,16 @@
+.sidebar {
+    background-color: #f4f4f4;
+    width: 250px;
+    padding: 20px;
+    height: calc(100vh - 60px); 
+    overflow-y: auto; 
+  }
+  
+  .sidebar ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .sidebar ul li {
+    margin-bottom: 10px;
+  }
